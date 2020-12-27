@@ -6,34 +6,32 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Tyler Tomczyk, CPA, CA
+title: Finance Professional
+email: tyler.tomczyk@gmail.com
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
+# twitter_username: facespics
+linkedin_username: tylertomczyk 
+github_username:  tylosh
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
+# instagram_username: chillwildlife
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# Additional icon links | TFT add PBI and Tableau Public here.
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,71 +44,174 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/tyler.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Tyler and I'm a finace professional at a digital health tech company based in Vancouver BC. In addition to finance and accounting duties, I have a growing interest towards the intersection of finance and data - including automation and visualization. I'm interested in continuing to develop my <mark>CPA</mark> background with additional tools like <mark>Python</mark>, <mark>Apps Script</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Raptors History</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: PAI Health Inc. / Mio Global
+        link: paihealth.com
+        sub_title: Director of Finance/ Finance Manager / Senior Financial Analyst
+        caption: November 2016 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          PAI Health is a  pivot/restart aimed at providing personalized health data analytics and member engagement to life insurers and corporate wellness platforms. Mio Global was recognized as a wearables market pioneer having launched the first wrist-based wearable with optical heart rate.
+          <br/>PAI Health business was acquired by <a href="https://www.huami.com/investor"> Huami Inc. </a> (NYSE: HMI | maker of <a href="https://www.amazfit.com/en/"> Amazfit </a> branded products) in June 2020 and continues to run as a wholly owned subsidiary/business unit.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          
+          `PAI Health - Director of Finance (Dec 2020 - Present)`
+          - Leading the finance team consisting of a Controller and Senior Accountant, oversight around typical department responsibilities of cash forecasting and funding requests, month-end close, payroll and key liason for parent company's financial requests.
+          
+          `PAI Health - Finance Manager (Mar 2019 - Dec 2020)`
+          - Helped facilitate an asset purchase and rollover of employees into PAI Health Inc. (from Physical Enterprises Inc. dba 'Mio Global') through a $17M capital raise, by helping financial planning and modelling during insolvency and fundraising period ($8M asset purchase to satisfy proposal  to creditors `|` $9M funding for initial go forward business operations).  
+          - Built out a workflow that enabled a cleaned and staged CSV to be automatically saved into gDrive each day containing the  accounting transactions from four entities (three currencies) for timely consolidated reporting through connection into BI tools and Excel  (Power Query).   
+          - Improved quality and frequency of external reporting to investors, with data visualization and commentary in a fast-paced  environment that included a next generation hardware launch, and subsequent business pivot to a SaaS company with a  new investor.
+          - Created multiple B2B customer facing beta dashboards in Tableau and PowerBI, aggregating and presenting biometric data  and engagement in pilots, by actively identifying knowledge gaps within a startup and addressing them with self-initiated learning and development.
+          - After acquisition, used Apps Script to help automate a newly required report that was scripted to send a daily cash reporting email and Excel file attachmnet showing cash activity and balances of ~ten bank accounts.
+          - Using a dataset of >3M rows, created an internal customer service portal in Tableau that enabled staff to login and gain quick insights and trends to help troubleshoot customer tickets submitted through the PAI Health App.
+          
+          `Mio Global - Senior Financial Analyst (Nov 2016 to Feb 2018)`
+          - Various ad hoc and internal reporting including circulating rolling quarterly sales and expenses forecasts, as well as projected  cash and inventory positions to help executive decision making.  
+          - Preparation of weekly KPI reports and commentary to the founder/CEO and VC investor to increase transparency of key  financial and operating analytics. 
+      - layout: left
+        title: Cymax Group
+        link: cymax.com
+        sub_title: Financial Reporting Analyst
+        caption: February 2016 - November 2016
+        quote: >
+          As one of the largest e-commerce furniture retailers in North America, Cymax.com sells over 100K SKUs helping contribute to >$180M in revenue in 2015.
+        description: | # this will include new lines to allow paragraphs
+          - Built out methodology and templates for monthly reporting by business unit (three e-commerce lines as well as two newly launched SaaS lines), enabling more accountability and insights into the various operating lines during monthly business review meetings.  
+          - Reporting lead for the Company’s monthly scorecard used both internally and in financing discussions. Responsibilities included planning, slide improvement, variance analysis and review of 50 slides prepared by a combined six staff members.  
+          - Assistance in preparation of a two-year forecast, aimed at transitioning the company from a high revenue growth model, towards an EBITDA focused corporate strategy to align with current capital market sentiment.  
+
+      - layout: left
+        title: XeraFlop Technologies Inc.
+        link: xeraone.com
+        sub_title: Senior Accountant
+        caption: February 2014 - February 2016
+        quote: >
+          Intentionally under the radar and lead by a former basement to IPO entrepreneur (previous company had a $240M IPO | ~$6B market cap at the time), XeraFlop developed multiple software/hardware integrated entertainment offerings with operations in North Dakota and Montana. ($15 million in equity raised to date of departure). Most recently doing business as “düber tech” and "XeraOne" though no longer active.
+        description: | # this will include new lines to allow paragraphs
+          - Completed recurring and ad hoc internal reporting and modelling for the CEO and CFO including developing metrics to identify correlations in successful venues as well as forecasting seasonal/weekday adjusted revenue and margin.
+          - Developed a weekly and monthly excel reporting template that enabled executives to get a summarized listing of performing and underperforming venues. Excel file included a macro that enabled drilling down into each location for a more granular view of each venue’s operations with various performance metrics and charts self-updating.  
+
+      - layout: left
+        title: MCAN Mortgage Corporation
+        link: mcanmortgage.com
+        sub_title: Financial Analyst
+        caption: October 2012 - February 2013 (contract)
+        quote: >
+          Publicly listed (TSX: MKP) mortgage investment corporation focused on generating reliable streams of income by investing in a diversified portfolio of Canadian mortgages.
+        description: | # this will include new lines to allow paragraphs
+          - Delivered period-end internal and external reporting tasks, including month end journal entries, preparation of sections of the Management Discussion and Analysis (“MD&A”), IFRS consolidated financial statements and Internal Executive Summary.
+          - Performed financial analysis for senior executives on operational highlights, key performance indicators, variances against budget and prior year, and general ledger trend reviews.
+          - Completed ad hoc projects for the Controller and CFO at their discretion including reviewing and testing company internal controls under NI 52-109 and participation in the five-year cash forecast and budget.
+
+      - layout: left
+        title: parker simone LLP
+        link: parker-simone.com
+        sub_title: Senior Staff Accountant
+        caption: September 2010 - April 2012
+        # quote: >
+        #   About ps
+        description: | # this will include new lines to allow paragraphs
+          - Key member of the assurance and advisory based practice with engagement responsibilities frequently including budgeting, planning, field work, review and supervisory duties of up to two associates.
+          - Assisted with preparation and regulatory adherence of financial statement presentation and disclosures, as well as the MD&A for public companies with understaffed finance departments.   
+
+      - layout: left
+        title: Ernst & Young LLP
+        link: ey.com/en_ca
+        sub_title: Staff Accountant
+        caption: September 2008 - December 2009, Internship Summer 2007
+        #quote: >
+        #  About EY
+        description: | # this will include new lines to allow paragraphs
+          - Worked in the financial services cluster, primarily working on Maple Financial Group (over €26 billion in assets) and the segregated fund side of Transamerica, a North American life insurance subsidiary of multinational AEGON.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Chartered Professional Accountants of Canada (CPA Canada)
+        caption: 2011
+        sub_title: CPA, CA
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          CPAs have the business, financial and analytic skills to help business navigate change. 
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          - Qualified as a Chartered Accountant (2011), UFE completion (2009).
+          - IFRS Immersion 1 (2011), IFRS Presentation and Disclosure (2012).
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: St. Francis Xavier University
+        caption: 2004 - 2008
+        sub_title: Bachelor Business Administration
+        quote: >
+          St. Francis Xavier University is a public undergraduate liberal arts university located in Antigonish, Nova Scotia, Canada. It is a member of the Maple League, a group of primarily undergraduate universities in Eastern Canada. 
+        description: | # this will include new lines to allow paragraphs
+          - Majored in Accounting with distinction (2008).
+          - Dean’s Honours List Certificate in 2nd, 3rd and 4th year.
+
+      - layout: left
+        title: Lighthouse Labs
+        caption: 2019 - 10 Week Course
+        sub_title: Web Development Bootcamp
+        quote: >
+          Whether it's a full-time bootcamp or a part-time program, Lighthouse Labs offers coding education from newbie to professional developer. With the support of a brilliant team of instructors and mentors, you'll be ready to translate concepts, break down problems, and continue learning on the job.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Lighthouse, I learned foundational skills to help better understand web development and coding in general. I was taught the skills necessary to understand code logic, think like a programmer, and be able to leverage sites like stackoverflow to help resolve and learn through coding problems/errors.
+
+      - layout: left
+        title: Other
+        #dates: 2009
+        #qualification: n/a
+        #quote: >
+          #n/a
+        description: | # this will include new lines to allow paragraphs
+          
+          `Investment Industry Regulatory Organization of Canada (IIROC)`
+            - Completed IIROC’s In Depth Brokers and Investment Dealers course (2009).
+          
+          `Marquee Group`
+            - VBA for Finance Professionals (2020)
+            - Marquepedia - Python Fundamentals (2020)
+            - Building a Financial Model (of a Company) (2018)
+
+
+  - title: Coding Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: HighFive
+        link: https://github.com/binduprakash/HighFive-Employee-Recognition-App
+        #github: sproogen/resume-theme
+        #link_text: Hello
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/binduprakash/HighFive-Employee-Recognition-App        
+        quote: >
+          Final bootcamp project @ Lighthouse Labs.
+        description: | # this will include new lines to allow paragraphs
+          Final project to help further simulate building a web development app with experience including `React`, `Slack` integrations and `Rails`. This group project provided a learning experience of building a website from the ground up (to MVP) working in a dev team. This included idea/concept creation, wireframing, routes, project scaffolding and back/front end code.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in finance/accounting/developement some of my other interests and hobbies are:
+      - NBA => [Toronto Raptors](https://www.nba.com/raptors/)
+      - Cooking and dining out
+      - Outdoor exploring with the family
+      - Travelling
+      - Learning to code: Apps Script + [GitHub](https://github.com/tylosh)
+      
+    #Look at this cool image  
+    #![Trees](/tylosh.github.io/images/tyler.jpg "Trees")
 
 # Footer
 footer_show_references: true
