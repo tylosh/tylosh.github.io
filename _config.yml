@@ -188,13 +188,13 @@ content:
     content:
       - layout: top-middle
         title: HighFive
-        link: https://github.com/binduprakash/HighFive-Employee-Recognition-App
+        #link: https://github.com/tylosh/HighFive-Employee-Recognition-App
         #github: sproogen/resume-theme
         #link_text: Hello
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: https://github.com/binduprakash/HighFive-Employee-Recognition-App        
+            url: https://github.com/tylosh/HighFive-Employee-Recognition-App       
         quote: >
           Final bootcamp project @ Lighthouse Labs.
         description: | # this will include new lines to allow paragraphs
