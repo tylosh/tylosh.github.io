@@ -57,7 +57,7 @@ content:
       - layout: left
         title: PAI Health Inc. / Mio Global
         link: paihealth.com
-        sub_title: Director of Finance/ Finance Manager / Senior Financial Analyst
+        sub_title: Director of Finance / Finance Manager / Senior Financial Analyst
         caption: November 2016 - Present
         quote: >
           PAI Health is a  pivot/restart aimed at providing personalized health data analytics and member engagement to life insurers and corporate wellness platforms. Mio Global was recognized as a wearables market pioneer having launched the first wrist-based wearable with optical heart rate.
@@ -65,7 +65,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           
           `PAI Health - Director of Finance (Dec 2020 - Present)`
-          - Leading the finance team consisting of a Controller and Senior Accountant, oversight around typical department responsibilities of cash forecasting and funding requests, month-end close, payroll and key liaison for parent company's financial requests.
+          - Leading the finance team consisting of a Controller and Senior Accountant => this role includes oversight over cash management/forecasting, budgeting, month-end close, financial reporting, and payroll, while acting as the key liaison for parent company's financial requests.
           
           `PAI Health - Finance Manager (Mar 2019 - Dec 2020)`
           - Helped facilitate an asset purchase and rollover of employees into PAI Health Inc. (from Physical Enterprises Inc. dba 'Mio Global') through a $17M capital raise, by helping financial planning and modelling during insolvency and fundraising period ($8M asset purchase to satisfy proposal  to creditors `|` $9M funding for initial go forward business operations).  
@@ -87,7 +87,7 @@ content:
           As one of the largest e-commerce furniture retailers in North America, Cymax.com sells over 100K SKUs helping contribute to >$180M in revenue in 2015.
         description: | # this will include new lines to allow paragraphs
           - Built out methodology and templates for monthly reporting by business unit (three e-commerce lines as well as two newly launched SaaS lines), enabling more accountability and insights into the various operating lines during monthly business review meetings.  
-          - Reporting lead for the Company’s monthly scorecard used both internally and in financing discussions. Responsibilities included planning, slide improvement, variance analysis and review of 50 slides prepared by a combined six staff members.  
+          - Reporting lead for the Company’s monthly scorecard used both internally and in financing discussions. Responsibilities included planning, slide improvement, variance analysis and review of ~50 slides prepared by a combined six staff members.  
           - Assistance in preparation of a two-year forecast, aimed at transitioning the company from a high revenue growth model, towards an EBITDA focused corporate strategy to align with current capital market sentiment.  
 
       - layout: left
@@ -96,10 +96,11 @@ content:
         sub_title: Senior Accountant
         caption: February 2014 - February 2016
         quote: >
-          Intentionally under the radar and lead by a former basement to IPO entrepreneur (previous company had a $240M IPO | ~$6B market cap at the time), XeraFlop developed multiple software/hardware integrated entertainment offerings with operations in North Dakota and Montana. ($15 million in equity raised to date of departure). Most recently doing business as “düber tech” and "XeraOne" though no longer active.
+          Intentionally under the radar and lead by a former basement to IPO entrepreneur (previous company had a $240M IPO | ~$6B market cap at the time), XeraFlop developed multiple software/hardware integrated entertainment offerings with operations in North Dakota and Montana. ($15 million in equity raised to date of departure). XeraFlop is no longer in operation.
         description: | # this will include new lines to allow paragraphs
           - Completed recurring and ad hoc internal reporting and modelling for the CEO and CFO including developing metrics to identify correlations in successful venues as well as forecasting seasonal/weekday adjusted revenue and margin.
-          - Developed a weekly and monthly excel reporting template that enabled executives to get a summarized listing of performing and underperforming venues. Excel file included a macro that enabled drilling down into each location for a more granular view of each venue’s operations with various performance metrics and charts self-updating.  
+          - Developed a weekly and monthly excel reporting template that enabled executives to get a summarized listing of performing and underperforming venues. Excel file included a macro that enabled drilling down into each location for a more granular view of each venue’s operations with various performance metrics and charts self-updating.
+          - Implemented a process starting with SQL query to extract, organize, summarize and analyze >20K/monthly customer transactions from mobile and kiosk points of sale. This facilitated importing into accounting records, filings of monthly regulatory reports and financial analysis for executives.  
 
       - layout: left
         title: MCAN Mortgage Corporation
@@ -152,7 +153,7 @@ content:
         caption: 2004 - 2008
         sub_title: Bachelor Business Administration
         quote: >
-          St. Francis Xavier University is a public undergraduate liberal arts university located in Antigonish, Nova Scotia, Canada. It is a member of the Maple League, a group of primarily undergraduate universities in Eastern Canada. 
+          St. Francis Xavier University is a public undergraduate liberal arts university located in Antigonish, Nova Scotia, Canada.
         description: | # this will include new lines to allow paragraphs
           - Majored in Accounting with distinction (2008).
           - Dean’s Honours List Certificate in 2nd, 3rd and 4th year.
@@ -164,7 +165,7 @@ content:
         quote: >
           Whether it's a full-time bootcamp or a part-time program, Lighthouse Labs offers coding education from newbie to professional developer. With the support of a brilliant team of instructors and mentors, you'll be ready to translate concepts, break down problems, and continue learning on the job.
         description: | # this will include new lines to allow paragraphs
-          During my time at Lighthouse, I learned foundational skills to help better understand web development and coding in general. I was taught the skills necessary to understand code logic, think like a programmer, and be able to leverage sites like stackoverflow to help resolve and learn through coding problems/errors.
+          During my time at Lighthouse, I learned foundational skills to help better understand web development and coding in general. I was taught the skills necessary to understand code logic, think like a programmer (both in coding and in finance), and be able to leverage sites like stackoverflow to help resolve and learn through coding problems/errors.
 
       - layout: left
         title: Other
@@ -230,7 +231,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in finance/accounting/development some of my other interests and hobbies are:
       - NBA => [Toronto Raptors](https://www.nba.com/raptors/)
-      - Cooking and dining out
+      - Cooking and eating out
       - Outdoor exploring with the family
       - Travelling
       - Learning to code: Apps Script + [GitHub](https://github.com/tylosh)
