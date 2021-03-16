@@ -46,9 +46,7 @@ github_username:  tylosh
 # about_title: About Me
 about_profile_image: images/tyler.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Tyler and I'm a finance professional at a digital health tech company based in Vancouver BC. In addition to finance and accounting duties, I have a growing interest towards the intersection of finance and data - including automation and visualization. I'm interested in continuing to develop my <mark>CPA</mark> background with additional tools like <mark>Python</mark>, <mark>Apps Script</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>.
-
-  I am most skilled in: <mark>Raptors History</mark>
+  Hi, my name's Tyler and I'm a finance professional at a digital health tech company based in Vancouver BC. In addition to finance and accounting duties, I have a growing interest towards the intersection of finance and data - including automation and visualization. I'm passionate about continuing to develop my <mark>CPA</mark> background with additional tools like <mark>Python</mark>, <mark>Apps Script</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>.
 
 content:
   - title: Experience # Title for the section
@@ -60,24 +58,24 @@ content:
         sub_title: Director of Finance / Finance Manager / Senior Financial Analyst
         caption: November 2016 - Present
         quote: >
-          PAI Health is a  pivot/restart aimed at providing personalized health data analytics and member engagement to life insurers and corporate wellness platforms. Mio Global was recognized as a wearables market pioneer having launched the first wrist-based wearable with optical heart rate.
-          <br/>PAI Health business was acquired by <a href="https://www.huami.com/investor"> Huami Inc. </a> (NYSE: HMI | maker of <a href="https://www.amazfit.com/en/"> Amazfit </a> branded products) in June 2020 and continues to run as a wholly owned subsidiary/business unit.
+          PAI Health Inc. is a pivot/restart aimed at providing personalized health data analytics and member engagement to life insurers and corporate wellness platforms under a SaaS model. Mio Global was recognized as a wearables market pioneer having launched the first wrist-based wearable with optical heart rate.
+          <br/>PAI Health business was acquired by <a href="https://www.huami.com/investor"> Huami Inc. </a> (formerly NYSE: HMI | maker of <a href="https://www.amazfit.com/en/"> Amazfit </a> branded products) in June 2020 and continues to run as a wholly owned subsidiary/business unit. *Huami is currently rebranding as <a href="https://www.zepp.com/us/"> Zepp Health </a> (NYSE: ZEPP) outside of China.
         description: | # this will include new lines to allow paragraphs
           
           `PAI Health - Director of Finance (Dec 2020 - Present)`
-          - Leading the finance team consisting of a Controller and Senior Accountant => this role includes oversight over cash management/forecasting, budgeting, month-end close, financial reporting, and payroll, while acting as the key liaison for parent company's financial requests.
+          - Leading the finance team consisting of a Controller and Senior Accountant, provided oversight over cash management/forecasting, budgeting, month-end close, financial reporting, and payroll, while acting as the key liaison for parent company's financial and HR requests.
           
           `PAI Health - Finance Manager (Mar 2019 - Dec 2020)`
-          - Helped facilitate an asset purchase and rollover of employees into PAI Health Inc. (from Physical Enterprises Inc. dba 'Mio Global') through a $17M capital raise, by helping financial planning and modelling during insolvency and fundraising period ($8M asset purchase to satisfy proposal  to creditors `|` $9M funding for initial go forward business operations).  
+          - Helped facilitate an asset purchase and rollover of employees into PAI Health Inc. (from Physical Enterprises Inc. dba 'Mio Global') through a $17M capital raise, by helping financial planning and modelling during insolvency and fundraising period ($8M asset purchase to satisfy proposal to creditors `|` $9M funding for initial go forward business operations).  
           - Built out a workflow that enabled a cleaned and staged CSV to be automatically saved into gDrive each day containing the  accounting transactions from four entities (three currencies) for timely consolidated reporting through connection into BI tools and Excel  (Power Query).   
-          - Improved quality and frequency of external reporting to investors, with data visualization and commentary in a fast-paced  environment that included a next generation hardware launch, and subsequent business pivot to a SaaS company with a  new investor.
-          - Created multiple B2B customer facing beta dashboards in Tableau and PowerBI, aggregating and presenting biometric data  and engagement in pilots, by actively identifying knowledge gaps within a startup and addressing them with self-initiated learning and development.
-          - After acquisition, used Apps Script to help automate a newly required report that was scripted to send a daily cash reporting email and Excel file attachment showing cash activity and balances of ~ten bank accounts.
+          - Improved quality and frequency of external reporting to investors, with data visualization and commentary in a fast-paced  environment that included a next generation hardware launch, and subsequent business pivot to a SaaS company with a new investor.
+          - Created multiple B2B customer facing beta dashboards in Tableau and PowerBI, aggregating and presenting biometric data and engagement in pilots, by actively identifying knowledge gaps within a startup and addressing them with self-initiated learning and development.
+          - Utilized Apps Script to help automate a newly required report (after acqusition) that was scripted to send a daily cash reporting email and Excel file attachment showing cash activity and balances of ~ten bank accounts, freeing up time from an FTE from manually completing on a daily basis.
           - Using a dataset of >3M rows, created an internal customer service portal in Tableau that enabled staff to login and gain quick insights and trends to help troubleshoot customer tickets submitted through the PAI Health App.
           
           `Mio Global - Senior Financial Analyst (Nov 2016 to Feb 2018)`
-          - Various ad hoc and internal reporting including circulating rolling quarterly sales and expenses forecasts, as well as projected  cash and inventory positions to help executive decision making.  
-          - Preparation of weekly KPI reports and commentary to the founder/CEO and VC investor to increase transparency of key  financial and operating analytics. 
+          - Various ad hoc and internal reporting including circulating rolling quarterly sales and expenses forecasts, as well as projected cash and inventory positions to help executive decision making.  
+          - Preparation of weekly KPI reports and commentary to the founder/CEO and VC investor to increase transparency of key financial and operating analytics. 
       - layout: left
         title: Cymax Group
         link: cymax.com
@@ -202,12 +200,7 @@ content:
           - Query, importrange, arrayformula as well as other common formulas in addition to Apps Script within gSuite.
           
           `Other`
-          - JavaScript, Python, SQL, NetSuite, Tableau, PowerBI, Xero, Microsoft Great Plains, Quickbooks.
-  
-  
-  
-  
-  
+          - JavaScript, Python, SQL, Tableau, PowerBI, Data Studio, Xero, NetSuite, Microsoft Great Plains, Quickbooks.
   
   - title: Coding Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -231,9 +224,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in finance/accounting/development some of my other interests and hobbies are:
       - NBA => [Toronto Raptors](https://www.nba.com/raptors/)
-      - Cooking and eating out
+      - Food => Cooking and eating out
       - Outdoor exploring with the family
-      - Travelling
+      - Travel
       - Learning to code: Apps Script + [GitHub](https://github.com/tylosh)
       
     #Look at this cool image  
