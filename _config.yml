@@ -70,7 +70,7 @@ content:
           - Built out a workflow that enabled a cleaned and staged CSV to be automatically saved into gDrive each day containing the  accounting transactions from four entities (three currencies) for timely consolidated reporting through connection into BI tools and Excel  (Power Query).   
           - Improved quality and frequency of external reporting to investors, with data visualization and commentary in a fast-paced  environment that included a next generation hardware launch, and subsequent business pivot to a SaaS company with a new investor.
           - Created multiple B2B customer facing beta dashboards in Tableau and PowerBI, aggregating and presenting biometric data and engagement in pilots, by actively identifying knowledge gaps within a startup and addressing them with self-initiated learning and development.
-          - Utilized Apps Script to help automate a newly required report (after acqusition) that was scripted to send a daily cash reporting email and Excel file attachment showing cash activity and balances of ~ten bank accounts, freeing up time from an FTE from manually completing on a daily basis.
+          - Utilized Apps Script to help automate a newly required report (after acqusition) that was scripted to send a daily cash reporting email and Excel file attachment showing cash activity and balances of ~ten bank accounts, freeing up time from an FTE manually completing on a daily basis.
           - Using a dataset of >3M rows, created an internal customer service portal in Tableau that enabled staff to login and gain quick insights and trends to help troubleshoot customer tickets submitted through the PAI Health App.
           
           `Mio Global - Senior Financial Analyst (Nov 2016 to Feb 2018)`
