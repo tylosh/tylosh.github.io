@@ -46,7 +46,7 @@ github_username:  tylosh
 # about_title: About Me
 about_profile_image: images/tyler.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Tyler and I'm a finance professional based in Vancouver BC. In addition to traditional finance and accounting duties, I have a growing interest towards the intersection of finance and data - including automation and visualization. I'm passionate about continuing to develop my <mark>CPA</mark> background with additional tools like <mark>Python</mark>, <mark>Apps Script</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>.
+  Hi, my name's Tyler and I'm a finance professional based in Vancouver BC. In addition to traditional finance and accounting duties, I have a growing interest towards the intersection of finance and data - including automation and visualization. I'm passionate about continuing to develop my <mark>CPA</mark> background with additional tools like <mark>Python</mark>, <mark>Apps Script</mark>, <mark>VBA</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>.
 
 content:
   - title: Experience # Title for the section
@@ -67,6 +67,7 @@ content:
           
           `PAI Health - Finance Manager (Mar 2019 - Dec 2020)`
           - Helped facilitate an asset purchase and rollover of employees into PAI Health Inc. (from Physical Enterprises Inc. dba 'Mio Global') through a $17M capital raise, by helping financial planning and modelling during insolvency and fundraising period ($8M asset purchase to satisfy proposal to creditors `|` $9M funding for initial go forward business operations).  
+          - Forecasting cash flow, revenue and expenses for the leadership team to properly plan and analyze the company's short and long term operations.
           - Built out a workflow that enabled a cleaned and staged CSV to be automatically saved into gDrive each day containing the  accounting transactions from four entities (three currencies) for timely consolidated reporting through connection into BI tools and Excel  (Power Query).   
           - Improved quality and frequency of external reporting to investors, with data visualization and commentary in a fast-paced  environment that included a next generation hardware launch, and subsequent business pivot to a SaaS company with a new investor.
           - Created multiple B2B customer facing beta dashboards in Tableau and PowerBI, aggregating and presenting biometric data and engagement in pilots, by actively identifying knowledge gaps within a startup and addressing them with self-initiated learning and development.
