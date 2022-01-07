@@ -46,7 +46,7 @@ github_username:  tylosh
 # about_title: About Me
 about_profile_image: images/tyler.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Tyler and I'm a finance professional at a digital health tech company based in Vancouver BC. In addition to finance and accounting duties, I have a growing interest towards the intersection of finance and data - including automation and visualization. I'm passionate about continuing to develop my <mark>CPA</mark> background with additional tools like <mark>Python</mark>, <mark>Apps Script</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>.
+  Hi, my name's Tyler and I'm a finance professional based in Vancouver BC. In addition to traditional finance and accounting duties, I have a growing interest towards the intersection of finance and data - including automation and visualization. I'm passionate about continuing to develop my <mark>CPA</mark> background with additional tools like <mark>Python</mark>, <mark>Apps Script</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>.
 
 content:
   - title: Experience # Title for the section
