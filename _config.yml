@@ -46,7 +46,7 @@ github_username:  tylosh
 # about_title: About Me
 about_profile_image: images/tyler.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Tyler and I'm a finance professional based in Vancouver BC. In addition to traditional finance and accounting duties, I have a growing interest towards the intersection of finance and data - including automation and visualization. I'm passionate about continuing to develop my <mark>CPA</mark> background with additional tools like <mark>Python</mark>, <mark>Apps Script</mark>, <mark>VBA</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>.
+  Hi, my name's Tyler and and I'm a Finance professional based in Vancouver BC. In addition to traditional finance and accounting duties, I have a growing interest towards the intersection of finance and data - including automation and visualization. I'm passionate about continuing to develop my <mark>CPA</mark> background with additional tools like <mark>Python</mark>, <mark>Apps Script</mark>, <mark>VBA</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>.
 
 content:
   - title: Experience # Title for the section
@@ -56,14 +56,14 @@ content:
         title: PAI Health Inc. / Mio Global
         link: paihealth.com
         sub_title: Director of Finance / Finance Manager / Senior Financial Analyst
-        caption: November 2016 - Present
+        caption: November 2016 - December 2021
         quote: >
           PAI Health Inc. is a pivot/restart aimed at providing personalized health data analytics and member engagement to life insurers and corporate wellness platforms under a SaaS model. Mio Global was recognized as a wearables market pioneer having launched the first wrist-based wearable with optical heart rate.
-          <br/>PAI Health business was acquired by <a href="https://www.huami.com/investor"> Huami Inc. </a> (formerly NYSE: HMI | maker of <a href="https://www.amazfit.com/en/"> Amazfit </a> branded products) in June 2020 and continues to run as a wholly owned subsidiary/business unit. *Huami rebranded in F'21-Q1 as <a href="https://www.zepp.com/us/"> Zepp Health </a> (NYSE: ZEPP).
+          <br/>PAI Health business was acquired by Huami Inc. </a> (formerly NYSE: HMI | maker of <a href="https://www.amazfit.com/en/"> Amazfit </a> branded products) in June 2020 and continues to run as a wholly owned subsidiary/business unit. *Huami rebranded in F'21-Q1 as <a href="https://www.zepp.com/us/"> Zepp Health </a> (NYSE: ZEPP).
         description: | # this will include new lines to allow paragraphs
           
-          `PAI Health - Director of Finance (Dec 2020 - Present)`
-          - Leading the finance team consisting of a Controller and Senior Accountant, provided oversight over cash management/forecasting, budgeting, month-end close, financial reporting, and payroll, while acting as the key liaison for parent company's financial and HR requests.
+          `PAI Health - Director of Finance (Dec 2020 - Dec 2021)`
+          - Leading the finance team consisting of a Controller and Junior Accountant, provided oversight over cash management, forecasting, budgeting, month-end close, financial reporting, and payroll, while operating as the key liaison for parent company's financial and HR requests.
           
           `PAI Health - Finance Manager (Mar 2019 - Dec 2020)`
           - Helped facilitate an asset purchase and rollover of employees into PAI Health Inc. (from Physical Enterprises Inc. dba 'Mio Global') through a $17M capital raise, by helping financial planning and modelling during insolvency and fundraising period ($8M asset purchase to satisfy proposal to creditors `|` $9M funding for initial go forward business operations).  
@@ -76,7 +76,7 @@ content:
           
           `Mio Global - Senior Financial Analyst (Nov 2016 to Feb 2018)`
           - Various ad hoc and internal reporting including circulating rolling quarterly sales and expenses forecasts, as well as projected cash and inventory positions to help executive decision making.  
-          - Preparation of weekly KPI reports and commentary to the founder/CEO and VC investor to increase transparency of key financial and operating analytics. 
+          - Preparation of weekly sell through and KPI reports with commentary to the founder/CEO and VC investor to increase transparency of key financial and operating analytics. 
       - layout: left
         title: Cymax Group
         link: cymax.com
@@ -228,7 +228,7 @@ content:
       - Food => Cooking and eating out
       - Outdoor exploring with the family
       - Travel
-      - Learning to code: Apps Script + [GitHub](https://github.com/tylosh)
+      - Learning to code: Apps Script + Python | [GitHub](https://github.com/tylosh)
       
     #Look at this cool image  
     #![Trees](/tylosh.github.io/images/tyler.jpg "Trees")
