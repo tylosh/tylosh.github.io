@@ -53,13 +53,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Herschel Supply Co.
+        link: herschel.com/
+        sub_title: Financial Planning & Analysis Manager
+        caption: February 2022 - August 2023
+        quote: >
+          Herschel Supply Co. is a design-driven manufacturer of the finest quality backpacks, bags, & travel accessories.
+        description: | # this will include new lines to allow paragraphs
+          `Herschel Supply Co. - FP&A Manager (Feb 2022 - Aug 2023)`
+          - Built out forecasting methodology for gross margin in wholesale and D2C channels, modeling out key drivers by channel for better accuracy and ad hoc business case analysis.
+          - Performed month-end gross margin analysis for BOD package, helping accounting close during implementation of a new ERP and provided trend analysis and guidance to the leadership team.
+          - Maintained retail P&L forecasting through an expansion phase of growing from 4 to 13 retail stores in 2023.
+          - Key liaison for BI team helping transition through multiple BI department heads and a new ERP implementation, improving data accuracy, reliability and reporting.
+            - Reconciled and built out reports in PBI for the company's main financial performance dashboard.
+            - Implemented transition solution for daily sales forecasting in PBI for accurate and visible results through multiple quarters in lieu of data warehouse solution readiness during ERP implementation.
+            - Built macro and PBI solution to enable aggregation of store sell through by retailer for more accessible sell through and WSOH reporting of major retailers to better identify selling opportunities and future orders at risk.
+      - layout: left
         title: PAI Health Inc. / Mio Global
-        link: paihealth.com
+        link: zepp.com/
         sub_title: Director of Finance / Finance Manager / Senior Financial Analyst
         caption: November 2016 - December 2021
         quote: >
           PAI Health Inc. is a pivot/restart aimed at providing personalized health data analytics and member engagement to life insurers and corporate wellness platforms under a SaaS model. Mio Global was recognized as a wearables market pioneer having launched the first wrist-based wearable with optical heart rate.
-          <br/>PAI Health business was acquired by Huami Inc. </a> (formerly NYSE: HMI | maker of <a href="https://www.amazfit.com/en/"> Amazfit </a> branded products) in June 2020 and continues to run as a wholly owned subsidiary/business unit. *Huami rebranded in F'21-Q1 as <a href="https://www.zepp.com/us/"> Zepp Health </a> (NYSE: ZEPP).
+          <br/>PAI Health Inc. business was acquired by Huami Inc. </a> (formerly NYSE: HMI | maker of <a href="https://www.amazfit.com/en/"> Amazfit </a> branded products) in June 2020 and continues to run as a wholly owned subsidiary/business unit. *Huami rebranded in F'21-Q1 as <a href="https://www.zepp.com/us/"> Zepp Health </a> (NYSE: ZEPP).
         description: | # this will include new lines to allow paragraphs
           
           `PAI Health - Director of Finance (Dec 2020 - Dec 2021)`
